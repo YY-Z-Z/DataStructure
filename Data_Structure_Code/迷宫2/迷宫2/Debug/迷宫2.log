@@ -1,0 +1,4 @@
+﻿  迷宫2.cpp
+D:\MyWorkSpace\Data Structure\迷宫2\迷宫2\迷宫2.cpp(116,9): warning C4101: “j”: 未引用的局部变量
+D:\MyWorkSpace\Data Structure\迷宫2\迷宫2\迷宫2.cpp(116,6): warning C4101: “i”: 未引用的局部变量
+  迷宫2.vcxproj -> D:\MyWorkSpace\Data Structure\迷宫2\Debug\迷宫2.exe

@@ -1,0 +1,4 @@
+﻿  BF.cpp
+D:\MyWorkSpace\Data Structure\BF\BF\BF.cpp(11,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\MyWorkSpace\Data Structure\BF\BF\BF.cpp(14,17): warning C4018: “<”: 有符号/无符号不匹配
+  BF.vcxproj -> D:\MyWorkSpace\Data Structure\BF\Debug\BF.exe
