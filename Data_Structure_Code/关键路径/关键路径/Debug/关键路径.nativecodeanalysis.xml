@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>CreateALGraph</FUNCTION>
+    <DECORATED>?CreateALGraph@@YAXPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>46</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>CreateALGraph</FUNCTION>
+    <DECORATED>?CreateALGraph@@YAXPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>50</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>CreateALGraph</FUNCTION>
+    <DECORATED>?CreateALGraph@@YAXPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>55</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>CreateALGraph</FUNCTION>
+    <DECORATED>?CreateALGraph@@YAXPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>取消对 NULL 指针“e”的引用。</DESCRIPTION>
+    <FUNCTION>CreateALGraph</FUNCTION>
+    <DECORATED>?CreateALGraph@@YAXPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>50</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>52</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>52</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>58</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“e”可能为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>59</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>已取消对“e”的引用，但可能仍为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>写入到“stack”时缓冲区溢出: 可写大小为“(unsigned int)(GL-&gt;numNodes)*sizeof(int)”个字节，但可能写入了“8”个字节。</DESCRIPTION>
+    <FUNCTION>TopologicalSort</FUNCTION>
+    <DECORATED>?TopologicalSort@@YAHPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“stack”是一个 0 字节数组</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此循环(假定“i&lt;GL-&gt;numNodes”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此分支(假定“0==GL-&gt;adjList[i].in”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>99</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>写入到“stack”无效(位于其可写范围之外)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>取消对 NULL 指针“stack”的引用。</DESCRIPTION>
+    <FUNCTION>TopologicalSort</FUNCTION>
+    <DECORATED>?TopologicalSort@@YAHPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“stack”可能为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此循环(假定“i&lt;GL-&gt;numNodes”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此分支(假定“0==GL-&gt;adjList[i].in”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>99</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>已取消对“stack”的引用，但可能仍为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>42</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>取消对 NULL 指针“etv”的引用。</DESCRIPTION>
+    <FUNCTION>TopologicalSort</FUNCTION>
+    <DECORATED>?TopologicalSort@@YAHPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“etv”可能为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此循环(假定“i&lt;GL-&gt;numNodes”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>42</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>已取消对“etv”的引用，但可能仍为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>109</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6385</DEFECTCODE>
+    <DESCRIPTION>从“stack”中读取的数据无效: 可读大小为“(unsigned int)(GL-&gt;numNodes)*sizeof(int)”个字节，但可能读取了“8”个字节。</DESCRIPTION>
+    <FUNCTION>TopologicalSort</FUNCTION>
+    <DECORATED>?TopologicalSort@@YAHPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“stack”是一个 0 字节数组</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此循环(假定“i&lt;GL-&gt;numNodes”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此分支(假定“0==GL-&gt;adjList[i].in”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>99</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“top”可能等于 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>退出此循环(“i&lt;GL-&gt;numNodes”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>42</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>106</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>107</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此循环(假定“top!=0”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>109</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>从“stack”中读取无效(位于其可读范围之外)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>111</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>写入到“stack2”时缓冲区溢出: 可写大小为“(unsigned int)GL-&gt;numNodes*sizeof(int)”个字节，但可能写入了“8”个字节。</DESCRIPTION>
+    <FUNCTION>TopologicalSort</FUNCTION>
+    <DECORATED>?TopologicalSort@@YAHPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>99</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>42</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>106</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“stack2”是一个 1 元素数组(4 字节)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>107</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此循环(假定“top!=0”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>109</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>111</LINE>
+        <COLUMN>17</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>写入到“stack2[1]”无效(可写范围是 0 到 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>111</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>取消对 NULL 指针“stack2”的引用。</DESCRIPTION>
+    <FUNCTION>TopologicalSort</FUNCTION>
+    <DECORATED>?TopologicalSort@@YAHPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>99</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>42</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>106</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“stack2”可能为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>107</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此循环(假定“top!=0”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>109</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>111</LINE>
+        <COLUMN>17</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>已取消对“stack2”的引用，但可能仍为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+      <FILENAME>关键路径.cpp</FILENAME>
+      <LINE>147</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>写入到“ltv”时缓冲区溢出: 可写大小为“(unsigned int)GL-&gt;numNodes*sizeof(int)”个字节，但可能写入了“8”个字节。</DESCRIPTION>
+    <FUNCTION>CriticalPath</FUNCTION>
+    <DECORATED>?CriticalPath@@YAXPAUGraphAdjList@@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>144</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“ltv”是一个 0 字节数组</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>145</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>145</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此循环(假定“i&lt;GL-&gt;numEdges”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>147</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>145</LINE>
+        <COLUMN>32</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“i”可能等于 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>145</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>继续此循环(假定“i&lt;GL-&gt;numEdges”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\MyWorkSpace\Data Structure\关键路径\关键路径\</FILEPATH>
+        <FILENAME>关键路径.cpp</FILENAME>
+        <LINE>147</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>写入到“ltv”无效(位于其可写范围之外)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

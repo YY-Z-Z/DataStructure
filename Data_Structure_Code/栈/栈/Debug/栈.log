@@ -1,0 +1,3 @@
+﻿  栈.cpp
+D:\MyWorkSpace\Data Structure\栈\栈\栈.cpp(122): warning C4715: “Pop”: 不是所有的控件路径都返回值
+  栈.vcxproj -> D:\MyWorkSpace\Data Structure\栈\Debug\栈.exe
